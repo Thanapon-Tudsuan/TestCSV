@@ -1,0 +1,97 @@
+AD_LEVEL,TA_ID,TAMBON_T,TAMBON_E,AM_ID,AMPHOE_T,AMPHOE_E,CH_ID,CHANGWAT_T,CHANGWAT_E,LAT,LONG
+4,100702,ต. เกาะสำโรง,Ko Samrong,7101,อ. เมืองกาญจนบุรี,Mueang Kanchanaburi,71,จ. กาญจนบุรี,Kanchanaburi,13.951,99.520
+4,103704,ต. วังเย็น,Wang Yen,7101,อ. เมืองกาญจนบุรี,Mueang Kanchanaburi,71,จ. กาญจนบุรี,Kanchanaburi,13.954,99.400
+4,101203,ต. บ้านเก่า,Ban Kao,7101,อ. เมืองกาญจนบุรี,Mueang Kanchanaburi,71,จ. กาญจนบุรี,Kanchanaburi,13.981,99.305
+4,101505,ต. หนองหญ้า,Nong Ya,7101,อ. เมืองกาญจนบุรี,Mueang Kanchanaburi,71,จ. กาญจนบุรี,Kanchanaburi,13.981,99.451
+4,100102,ต. ท่ามะขาม,Tha Makham,7101,อ. เมืองกาญจนบุรี,Mueang Kanchanaburi,71,จ. กาญจนบุรี,Kanchanaburi,14.035,99.503
+4,101802,ต. ปากแพรก,Pak Phraek,7101,อ. เมืองกาญจนบุรี,Mueang Kanchanaburi,71,จ. กาญจนบุรี,Kanchanaburi,14.039,99.551
+4,100403,ต. หนองบัว,Nong Bua,7101,อ. เมืองกาญจนบุรี,Mueang Kanchanaburi,71,จ. กาญจนบุรี,Kanchanaburi,14.050,99.417
+4,101804,ต. แก่งเสี้ยน,Kaeng Sian,7101,อ. เมืองกาญจนบุรี,Mueang Kanchanaburi,71,จ. กาญจนบุรี,Kanchanaburi,14.103,99.501
+4,102802,ต. ลาดหญ้า,Lat Ya,7101,อ. เมืองกาญจนบุรี,Mueang Kanchanaburi,71,จ. กาญจนบุรี,Kanchanaburi,14.138,99.419
+4,101907,ต. วังด้ง,Wang Dong,7101,อ. เมืองกาญจนบุรี,Mueang Kanchanaburi,71,จ. กาญจนบุรี,Kanchanaburi,14.151,99.306
+4,103103,ต. ช่องสะเดา,Chong Sadao,7101,อ. เมืองกาญจนบุรี,Mueang Kanchanaburi,71,จ. กาญจนบุรี,Kanchanaburi,14.228,99.187
+4,102803,ต. หนองประดู่,Nong Pradu,7110,อ. เลาขวัญ,Lao Khwan,71,จ. กาญจนบุรี,Kanchanaburi,14.456,99.738
+4,100201,ต. หนองนกแก้ว,Nong Nok Kaeo,7110,อ. เลาขวัญ,Lao Khwan,71,จ. กาญจนบุรี,Kanchanaburi,14.516,99.655
+4,103101,ต. เลาขวัญ,Lao Khwan,7110,อ. เลาขวัญ,Lao Khwan,71,จ. กาญจนบุรี,Kanchanaburi,14.580,99.753
+4,102504,ต. ทุ่งกระบ่ำ,Thung Krabam,7110,อ. เลาขวัญ,Lao Khwan,71,จ. กาญจนบุรี,Kanchanaburi,14.616,99.586
+4,102004,ต. หนองโสน,Nong Sano,7110,อ. เลาขวัญ,Lao Khwan,71,จ. กาญจนบุรี,Kanchanaburi,14.648,99.758
+4,103701,ต. หนองฝ้าย,Nong Fai,7110,อ. เลาขวัญ,Lao Khwan,71,จ. กาญจนบุรี,Kanchanaburi,14.682,99.642
+4,102009,ต. หนองปลิง,Nong Pling,7110,อ. เลาขวัญ,Lao Khwan,71,จ. กาญจนบุรี,Kanchanaburi,14.715,99.743
+4,101704,ต. ศรีมงคล,Si Mongkhon,7102,อ. ไทรโยค,Sai Yok,71,จ. กาญจนบุรี,Kanchanaburi,13.992,99.139
+4,100703,ต. สิงห์,Sing,7102,อ. ไทรโยค,Sai Yok,71,จ. กาญจนบุรี,Kanchanaburi,14.035,99.287
+4,103502,ต. ลุ่มสุ่ม,Lum Sum,7102,อ. ไทรโยค,Sai Yok,71,จ. กาญจนบุรี,Kanchanaburi,14.104,99.133
+4,102502,ต. บ้องตี้,Bong Ti,7102,อ. ไทรโยค,Sai Yok,71,จ. กาญจนบุรี,Kanchanaburi,14.134,98.916
+4,101902,ต. วังกระแจะ,Wang Krachae,7102,อ. ไทรโยค,Sai Yok,71,จ. กาญจนบุรี,Kanchanaburi,14.260,98.911
+4,102401,ต. ท่าเสา,Tha Sao,7102,อ. ไทรโยค,Sai Yok,71,จ. กาญจนบุรี,Kanchanaburi,14.303,99.037
+4,103902,ต. ไทรโยค,Sai Yok,7102,อ. ไทรโยค,Sai Yok,71,จ. กาญจนบุรี,Kanchanaburi,14.421,98.741
+4,102206,ต. หนองไผ่,Nong Phai,7111,อ. ด่านมะขามเตี้ย,Dan Makham Tia,71,จ. กาญจนบุรี,Kanchanaburi,13.808,99.440
+4,103504,ต. จรเข้เผือก,Chorakhe Phueak,7111,อ. ด่านมะขามเตี้ย,Dan Makham Tia,71,จ. กาญจนบุรี,Kanchanaburi,13.811,99.210
+4,102208,ต. ด่านมะขามเตี้ย,Dan Makham Tia,7111,อ. ด่านมะขามเตี้ย,Dan Makham Tia,71,จ. กาญจนบุรี,Kanchanaburi,13.836,99.388
+4,103302,ต. กลอนโด,Klon Do,7111,อ. ด่านมะขามเตี้ย,Dan Makham Tia,71,จ. กาญจนบุรี,Kanchanaburi,13.880,99.440
+4,101504,ต. ลิ่นถิ่น,Lin Thin,7107,อ. ทองผาภูมิ,Thong Pha Phum,71,จ. กาญจนบุรี,Kanchanaburi,14.584,98.833
+4,103303,ต. หินดาด,Hin Dat,7107,อ. ทองผาภูมิ,Thong Pha Phum,71,จ. กาญจนบุรี,Kanchanaburi,14.608,98.723
+4,100206,ต. ห้วยเขย่ง,Huai Khayeng,7107,อ. ทองผาภูมิ,Thong Pha Phum,71,จ. กาญจนบุรี,Kanchanaburi,14.635,98.583
+4,101803,ต. สหกรณ์นิคม,Sahakon Nikhom,7107,อ. ทองผาภูมิ,Thong Pha Phum,71,จ. กาญจนบุรี,Kanchanaburi,14.735,98.763
+4,104102,ต. ท่าขนุน,Tha Khanun,7107,อ. ทองผาภูมิ,Thong Pha Phum,71,จ. กาญจนบุรี,Kanchanaburi,14.762,98.641
+4,102402,ต. ปิล๊อก,Pi Lok,7107,อ. ทองผาภูมิ,Thong Pha Phum,71,จ. กาญจนบุรี,Kanchanaburi,14.779,98.403
+4,102601,ต. ชะแล,Chalae,7107,อ. ทองผาภูมิ,Thong Pha Phum,71,จ. กาญจนบุรี,Kanchanaburi,14.996,98.833
+4,103702,ต. หนองตากยา,Nong Tak Ya,7106,อ. ท่าม่วง,Tha Muang,71,จ. กาญจนบุรี,Kanchanaburi,13.795,99.546
+4,103102,ต. พังตรุ,Phang Tru,7106,อ. ท่าม่วง,Tha Muang,71,จ. กาญจนบุรี,Kanchanaburi,13.863,99.645
+4,100101,ต. รางสาลี่,Rang Sali,7106,อ. ท่าม่วง,Tha Muang,71,จ. กาญจนบุรี,Kanchanaburi,13.866,99.543
+4,100202,ต. บ้านใหม่,Ban Mai,7106,อ. ท่าม่วง,Tha Muang,71,จ. กาญจนบุรี,Kanchanaburi,13.868,99.604
+4,100805,ต. ท่าตะคร้อ,Tha Takhro,7106,อ. ท่าม่วง,Tha Muang,71,จ. กาญจนบุรี,Kanchanaburi,13.917,99.699
+4,101901,ต. เขาน้อย,Khao Noi,7106,อ. ท่าม่วง,Tha Muang,71,จ. กาญจนบุรี,Kanchanaburi,13.919,99.588
+4,100802,ต. ม่วงชุม,Muang Chum,7106,อ. ท่าม่วง,Tha Muang,71,จ. กาญจนบุรี,Kanchanaburi,13.937,99.617
+4,100111,ต. วังขนาย,Wang Khanai,7106,อ. ท่าม่วง,Tha Muang,71,จ. กาญจนบุรี,Kanchanaburi,13.960,99.663
+4,101501,ต. วังศาลา,Wang Sala,7106,อ. ท่าม่วง,Tha Muang,71,จ. กาญจนบุรี,Kanchanaburi,13.971,99.697
+4,100105,ต. ท่าม่วง,Tha Muang,7106,อ. ท่าม่วง,Tha Muang,71,จ. กาญจนบุรี,Kanchanaburi,13.974,99.625
+4,100803,ต. ท่าล้อ,Tha Lo,7106,อ. ท่าม่วง,Tha Muang,71,จ. กาญจนบุรี,Kanchanaburi,13.987,99.589
+4,101301,ต. ทุ่งทอง,Thung Thong,7106,อ. ท่าม่วง,Tha Muang,71,จ. กาญจนบุรี,Kanchanaburi,14.008,99.666
+4,102006,ต. หนองขาว,Nong Khao,7106,อ. ท่าม่วง,Tha Muang,71,จ. กาญจนบุรี,Kanchanaburi,14.055,99.613
+4,100801,ต. โคกตะบอง,Khok Tabong,7105,อ. ท่ามะกา,Tha Maka,71,จ. กาญจนบุรี,Kanchanaburi,13.839,99.746
+4,100104,ต. ท่าเสา,Tha Sao,7105,อ. ท่ามะกา,Tha Maka,71,จ. กาญจนบุรี,Kanchanaburi,13.843,99.805
+4,101801,ต. เขาสามสิบหาบ,Khao Sam Sip Hap,7105,อ. ท่ามะกา,Tha Maka,71,จ. กาญจนบุรี,Kanchanaburi,13.865,99.719
+4,100804,ต. พงตึก,Phong Tuek,7105,อ. ท่ามะกา,Tha Maka,71,จ. กาญจนบุรี,Kanchanaburi,13.869,99.776
+4,100103,ต. ดอนขมิ้น,Don Khamin,7105,อ. ท่ามะกา,Tha Maka,71,จ. กาญจนบุรี,Kanchanaburi,13.884,99.826
+4,100108,ต. หวายเหนียว,Wai Niao,7105,อ. ท่ามะกา,Tha Maka,71,จ. กาญจนบุรี,Kanchanaburi,13.902,99.759
+4,100109,ต. ท่าไม้,Tha Mai,7105,อ. ท่ามะกา,Tha Maka,71,จ. กาญจนบุรี,Kanchanaburi,13.906,99.801
+4,101302,ต. ยางม่วง,Yang Muang,7105,อ. ท่ามะกา,Tha Maka,71,จ. กาญจนบุรี,Kanchanaburi,13.921,99.834
+4,100405,ต. แสนตอ,Saen To,7105,อ. ท่ามะกา,Tha Maka,71,จ. กาญจนบุรี,Kanchanaburi,13.922,99.732
+4,100107,ต. ท่ามะกา,Tha Maka,7105,อ. ท่ามะกา,Tha Maka,71,จ. กาญจนบุรี,Kanchanaburi,13.930,99.779
+4,100106,ต. ท่าเรือ (เทศบาลเมืองพระแท่น),Tha Ruea,7105,อ. ท่ามะกา,Tha Maka,71,จ. กาญจนบุรี,Kanchanaburi,13.954,99.752
+4,101303,ต. สนามแย้,Sanam Yae,7105,อ. ท่ามะกา,Tha Maka,71,จ. กาญจนบุรี,Kanchanaburi,13.954,99.851
+4,100112,ต. ดอนชะเอม,Don Cha-Em,7105,อ. ท่ามะกา,Tha Maka,71,จ. กาญจนบุรี,Kanchanaburi,13.971,99.807
+4,100701,ต. ตะคร้ำเอน,Takhram En,7105,อ. ท่ามะกา,Tha Maka,71,จ. กาญจนบุรี,Kanchanaburi,13.992,99.744
+4,101502,ต. พระแท่น,Phra Thaen,7105,อ. ท่ามะกา,Tha Maka,71,จ. กาญจนบุรี,Kanchanaburi,14.018,99.792
+4,100110,ต. หนองลาน,Nong Lan,7105,อ. ท่ามะกา,Tha Maka,71,จ. กาญจนบุรี,Kanchanaburi,14.037,99.827
+4,102210,ต. อุโลกสี่หมื่น,Ulok Si Muen,7105,อ. ท่ามะกา,Tha Maka,71,จ. กาญจนบุรี,Kanchanaburi,14.060,99.773
+4,101701,ต. หนองกุ่ม,Nong Kum,7103,อ. บ่อพลอย,Bo Phloi,71,จ. กาญจนบุรี,Kanchanaburi,14.205,99.462
+4,102202,ต. บ่อพลอย,Bo Phloi,7103,อ. บ่อพลอย,Bo Phloi,71,จ. กาญจนบุรี,Kanchanaburi,14.305,99.466
+4,103903,ต. ช่องด่าน,Chong Dan,7103,อ. บ่อพลอย,Bo Phloi,71,จ. กาญจนบุรี,Kanchanaburi,14.412,99.437
+4,102501,ต. หลุมรัง,Lum Rang,7103,อ. บ่อพลอย,Bo Phloi,71,จ. กาญจนบุรี,Kanchanaburi,14.485,99.481
+4,101602,ต. หนองรี,Nong Ri,7103,อ. บ่อพลอย,Bo Phloi,71,จ. กาญจนบุรี,Kanchanaburi,14.540,99.356
+4,100401,ต. ดอนเจดีย์,Don Chedi,7109,อ. พนมทวน,Phanom Thuan,71,จ. กาญจนบุรี,Kanchanaburi,14.036,99.674
+4,100404,ต. หนองสาหร่าย,Nong Sarai,7109,อ. พนมทวน,Phanom Thuan,71,จ. กาญจนบุรี,Kanchanaburi,14.067,99.728
+4,100204,ต. ทุ่งสมอ,Thung Samo,7109,อ. พนมทวน,Phanom Thuan,71,จ. กาญจนบุรี,Kanchanaburi,14.076,99.667
+4,101601,ต. พนมทวน,Phanom Thuan,7109,อ. พนมทวน,Phanom Thuan,71,จ. กาญจนบุรี,Kanchanaburi,14.129,99.705
+4,100402,ต. พังตรุ,Phang Tru,7109,อ. พนมทวน,Phanom Thuan,71,จ. กาญจนบุรี,Kanchanaburi,14.134,99.746
+4,102503,ต. หนองโรง,Nong Rong,7109,อ. พนมทวน,Phanom Thuan,71,จ. กาญจนบุรี,Kanchanaburi,14.162,99.622
+4,100203,ต. ดอนตาเพชร,Don Ta Phet,7109,อ. พนมทวน,Phanom Thuan,71,จ. กาญจนบุรี,Kanchanaburi,14.192,99.678
+4,101503,ต. รางหวาย,Rang Wai,7109,อ. พนมทวน,Phanom Thuan,71,จ. กาญจนบุรี,Kanchanaburi,14.232,99.767
+4,103802,ต. ท่ากระดาน,Tha Kradan,7104,อ. ศรีสวัสดิ์,Si Sawat,71,จ. กาญจนบุรี,Kanchanaburi,14.366,99.174
+4,102207,ต. หนองเป็ด,Nong Pet,7104,อ. ศรีสวัสดิ์,Si Sawat,71,จ. กาญจนบุรี,Kanchanaburi,14.464,99.232
+4,102007,ต. แม่กระบุง,Mae Krabung,7104,อ. ศรีสวัสดิ์,Si Sawat,71,จ. กาญจนบุรี,Kanchanaburi,14.527,98.996
+4,101204,ต. ด่านแม่แฉลบ,Dan Mae Chalaep,7104,อ. ศรีสวัสดิ์,Si Sawat,71,จ. กาญจนบุรี,Kanchanaburi,14.691,98.980
+4,103501,ต. เขาโจด,Khao Chot,7104,อ. ศรีสวัสดิ์,Si Sawat,71,จ. กาญจนบุรี,Kanchanaburi,14.885,99.183
+4,102201,ต. นาสวน,Na Suan,7104,อ. ศรีสวัสดิ์,Si Sawat,71,จ. กาญจนบุรี,Kanchanaburi,14.895,99.029
+4,101702,ต. ปรังเผล,Prang Phle,7108,อ. สังขละบุรี,Sangkhla Buri,71,จ. กาญจนบุรี,Kanchanaburi,14.999,98.545
+4,103301,ต. หนองลู,Nong Lu,7108,อ. สังขละบุรี,Sangkhla Buri,71,จ. กาญจนบุรี,Kanchanaburi,15.112,98.341
+4,103503,ต. ไล่โว่,Lai Wo,7108,อ. สังขละบุรี,Sangkhla Buri,71,จ. กาญจนบุรี,Kanchanaburi,15.345,98.664
+4,102801,ต. หนองปลาไหล,Nong Pla Lai,7112,อ. หนองปรือ,Nong Prue,71,จ. กาญจนบุรี,Kanchanaburi,14.626,99.527
+4,101904,ต. หนองปรือ,Nong Prue,7112,อ. หนองปรือ,Nong Prue,71,จ. กาญจนบุรี,Kanchanaburi,14.630,99.454
+4,103703,ต. สมเด็จเจริญ,Somdet Charoen,7112,อ. หนองปรือ,Nong Prue,71,จ. กาญจนบุรี,Kanchanaburi,14.746,99.338
+4,102005,ต. ดอนแสลบ,Don Salaep,7113,อ. ห้วยกระเจา,Huai Krachao,71,จ. กาญจนบุรี,Kanchanaburi,14.292,99.701
+4,100704,ต. ห้วยกระเจา,Huai Krachao,7113,อ. ห้วยกระเจา,Huai Krachao,71,จ. กาญจนบุรี,Kanchanaburi,14.312,99.618
+4,102209,ต. สระลงเรือ,Sa Long Ruea,7113,อ. ห้วยกระเจา,Huai Krachao,71,จ. กาญจนบุรี,Kanchanaburi,14.357,99.764
+4,103901,ต. วังไผ่,Wang Phai,7113,อ. ห้วยกระเจา,Huai Krachao,71,จ. กาญจนบุรี,Kanchanaburi,14.434,99.597
+,,,,,,,,,,,
